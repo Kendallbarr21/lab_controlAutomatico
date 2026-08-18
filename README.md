@@ -1,8 +1,5 @@
-Hola.
-Por favor agregar su nombre y su ID para identificar a la persona dueña del repositorio.
-Gracias, 
-
-Luis C. Rosales A. 
+#Kendall Jesus Barrantes Chaves
+#2021442238
 
 # lab_controlAutomatico
 Proyectos individuales del curso
